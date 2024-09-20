@@ -33,10 +33,10 @@ The repository is organized into different folders according to the subjects:
   - [R](./Statistics/R)
 
 - [Econometrics](./Econometrics)
-  - [TrabalhoPNAD2024](./Econometrics/Trabalho_PNAD_2024)
+  - [Trabalho_PNAD_2024](./Econometrics/Trabalho_PNAD_2024)
     - README.md (descrição detalhada deste trabalho)
     - Arquivos do trabalho
-  - [OutroTrabalho](./Econometrics/Outro_Trabalho)
+  - [Outro_Trabalho](./Econometrics/Outro_Trabalho)
     - README.md (descrição detalhada deste trabalho)
     - Arquivos do trabalho
   - Outros trabalhos serão adicionados aqui...
