@@ -1,3 +1,7 @@
+# Analise PNAD 2024
+
+Este repositório contém os arquivos utilizados na análise dos dados da PNAD de 2024. O objetivo do trabalho foi realizar uma análise econométrica com base nas variáveis tradicionais da PNAD, conforme descrito nas questões do trabalho.
+
 ## Etapas do Trabalho
 
 ### Q1:
@@ -46,6 +50,34 @@ Com base na sua conclusão do item anterior, façam uma regressão para explicar
 ### Q11:
 É possível que o nível de experiência tenha efeito importante sobre os salários, porém há dúvidas sobre como deve ser a forma funcional desse efeito. Como poderíamos incorporar efeitos não-lineares no modelo? Supondo que o efeito seja quadrático, qual seria o nível de experiência que maximiza o salário, tudo mais constante?
 
-### Q12 (Bônus):
-Para finalizar, comentem como os resultados podem se relacionar com as probabilidades de estar no mercado de trabalho calculadas no começo do trabalho. A análise feita aqui é apenas sobre salários reais, ou seja, pode existir um viés de seleção sobre a amostra de salários, dado que as pessoas decidem trabalhar em função de suas características pessoais, que são também as variáveis que usamos na regressão. Isso pode ser interpretado como considerar o salário de reserva de um indivíduo uma função de suas características. Como vocês esperariam que o salário de reserva varie com idade, sexo e escolaridade? Como essa variação pode gerar viés no modelo? Este item é inteiramente opcional.
+## Conteúdo do Repositório
+
+### Arquivos
+
+- **Atividade1Final_MichelleBouhid.Rmd**: Código RMarkdown utilizado para gerar a análise final dos dados da PNAD. Este arquivo contém o código R utilizado para realizar a limpeza, tratamento dos dados e as análises requeridas no trabalho.
+  
+- **Atividade1_MichelleBouhid.pdf**: Versão em PDF da análise econométrica final, gerada a partir do arquivo `.Rmd`. Este arquivo é um relatório pronto para apresentação com todos os resultados da análise.
+
+- **PS3_VersaoFinalCod**: Código relacionado à análise e visualização dos dados, contendo scripts para rodar no ambiente R ou RStudio.
+
+- **README.md**: Este arquivo, contendo informações sobre a organização do repositório e uma breve descrição de cada arquivo.
+
+## Como Reproduzir a Análise
+
+1. **Clonar o repositório**:
+   - `git clone <URL-do-repositorio>`
+   
+2. **Rodar o código RMarkdown**:
+   - Abra o arquivo `Atividade1Final_MichelleBouhid.Rmd` no RStudio.
+   - Certifique-se de que todas as bibliotecas requeridas (como `pnadcibge`) estão instaladas.
+   - Execute o script para gerar os resultados no formato PDF.
+
+## Requisitos
+
+- **Linguagem**: R
+- **Pacotes**: `pnadcibge`, `ggplot2`, `dplyr`, entre outros que podem ser carregados no início do script.
+
+## Autor
+
+- **Michelle Bouhid**
 
