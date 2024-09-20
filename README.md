@@ -19,6 +19,30 @@ The repository is organized into different folders according to the subjects:
   - [Python](./Econometrics/Python)
   - [R](./Econometrics/R)
 
+
+## Repository Structure
+
+The repository is organized into different folders according to the subjects:
+
+- [Macroeconomics](./Macroeconomics)
+  - [Python](./Macroeconomics/Python)
+  - [R](./Macroeconomics/R)
+  
+- [Statistics](./Statistics)
+  - [Python](./Statistics/Python)
+  - [R](./Statistics/R)
+
+- [Econometrics](./Econometrics)
+  - [Trabalho PNAD 2024](./Econometrics/Trabalho_PNAD_2024)
+    - README.md (descrição detalhada deste trabalho)
+    - Arquivos do trabalho
+  - [Outro Trabalho](./Econometrics/Outro_Trabalho)
+    - README.md (descrição detalhada deste trabalho)
+    - Arquivos do trabalho
+  - Outros trabalhos serão adicionados aqui...
+
+
+
 ## Tools
 
 - **Python**: Used primarily for data analysis, econometric modeling, and statistical analysis.
