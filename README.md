@@ -16,8 +16,8 @@ The repository is organized into different folders according to the subjects:
   - [R](./Statistics/R)
 
 - [Econometrics](./Econometrics)
-  - [Python](./Econometrics/Python)
-  - [R](./Econometrics/R)
+  - [LinguagemPython](./Econometrics/Python)
+  - [LinguagemR](./Econometrics/R)
 
 
 ## Repository Structure
