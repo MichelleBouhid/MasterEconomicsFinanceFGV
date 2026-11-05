@@ -7,9 +7,6 @@ This repository contains the projects and assignments developed during my Master
 
 The repository is organized into different folders according to the subjects:
 
-- [Macroeconomics](./Macroeconomics)
-  - [Python](./Macroeconomics/Python)
-  - [R](./Macroeconomics/R)
   
 - [Statistics](./Statistics)
   - [Python](./Statistics/Python)
@@ -24,9 +21,6 @@ The repository is organized into different folders according to the subjects:
 
 The repository is organized into different folders according to the subjects:
 
-- [Macroeconomics](./Macroeconomics)
-  - [Python](./Macroeconomics/Python)
-  - [R](./Macroeconomics/R)
   
 - [Statistics](./Statistics)
   - [Python](./Statistics/Python)
